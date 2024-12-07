@@ -13,6 +13,10 @@
 
 　Instagram : <a href="https://www.instagram.com/p_horeer_/" target="_blank">@p_horeer_</a>
 
+　Instagram（sb）: <a href="https://www.instagram.com/_p_horeer_sb" target="_ blank">@_p_horeer_sb</a>
+
+ Apple Music : <a href="https://music.apple.com/profile/p_horeer" target="_blank">@p_horeer</a>
+
 　note : <a href="https://note.com/p_horeer_/" target="_blank">うまいしか</a>
 
  今後、Webサイト作成予定です。 I'm planning create my web page.

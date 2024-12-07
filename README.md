@@ -2,20 +2,16 @@
 
 ## About me
  iPhone SE(3rd generation)で写真を撮ってます。
-
  布陣はiPhoneSE第3世代とiPad第10世代。しょぼい😢
 
  I'm taking pictures with my iPhone SE (3rd generation).
-
  The lineup is the iPhone SE(3rd generation)and the iPad(10th generation). It's shabby😢
 
 ### SNS
 
  Twitter : <a href="https://x.com/p_horeer" target="_blank">@p_horeer</a>
 
- Instagram : <a href="https://www.instagram.com/p_horeer_/" target="_blank">@p_horeer_</a>
- 
- Instagram（sb）: <a href="https://www.instagram.com/_p_horeer_sb" target="_ blank">@_p_horeer_sb</a>
+ Instagram : <a href="https://www.instagram.com/p_horeer_/" target="_blank">@p_horeer_</a> <a href="https://www.instagram.com/_p_horeer_sb" target="_ blank">@_p_horeer_sb</a>
 
  Apple Music : <a href="https://music.apple.com/profile/p_horeer" target="_blank">@p_horeer</a>
 

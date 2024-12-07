@@ -11,7 +11,7 @@
 
  Twitter : <a href="https://x.com/p_horeer" target="_blank">@p_horeer</a>
 
- Instagram : <a href="https://www.instagram.com/p_horeer_/" target="_blank">@p_horeer_</a> <a href="https://www.instagram.com/_p_horeer_sb" target="_ blank">@_p_horeer_sb</a>
+ Instagram : <a href="https://www.instagram.com/p_horeer_/" target="_blank">@p_horeer_</a> / <a href="https://www.instagram.com/_p_horeer_sb" target="_ blank">@_p_horeer_sb</a>
 
  Apple Music : <a href="https://music.apple.com/profile/p_horeer" target="_blank">@p_horeer</a>
 

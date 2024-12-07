@@ -1,7 +1,7 @@
 # P_horee/うまいしか
 
 ## About me
- iPhone SE(3rd generation)で写真を撮ってます。
+ iPhone SE(第３世代)で写真を撮ってます。
  布陣はiPhoneSE第3世代とiPad第10世代。しょぼい😢
 
  I'm taking pictures with my iPhone SE (3rd generation).

@@ -17,4 +17,5 @@
 
  note : <a href="https://note.com/p_horeer_/" target="_blank">うまいしか</a>
 
- 今後、Webサイト作成予定です。 I'm planning create my web page.
+ 今後、Webサイト作成予定です。 
+　I'm planning create my web page.

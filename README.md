@@ -1,8 +1,9 @@
 # P_horee/うまいしか
 
 ## About me
-　iPhone SE(3rd generation)で写真を撮ってる人です。
-　専門的なこと全く分からないけどプログラマー、グラフィックデザイナーになりたい！
+　iPhone SE(3rd generation)で写真を撮ってます
+
+ 
 
 ### SNS
 

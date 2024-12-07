@@ -1,11 +1,15 @@
-# P_horee
+# P_horee/うまいしか
 
 ## About me
-iPhone SE(3rd generation)
+　iPhone SE(3rd generation)で写真を撮ってる人です。
+　専門的なこと全く分からないけどプログラマー、グラフィックデザイナーになりたい！
 
-[Twitter](https://x.com/p_horeer)
+### SNS
 
-[Instagram](https://www.instagram.com/p_horeer_/)
+　Twitter : <a href="https://x.com/p_horeer" target="_blank">@p_horeer</a>
+
+　Instagram : <a href="https://www.instagram.com/p_horeer_/" target="_blank">@p_horeer_</a>
+
 
 
 

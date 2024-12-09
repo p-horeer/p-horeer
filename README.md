@@ -1,11 +1,9 @@
 # P_horee/うまいしか
 
 ## About me
- iPhone SE(第３世代)で写真を撮ってます。
- 布陣はiPhoneSE第3世代とiPad第10世代。しょぼい😢
+ iPhone SE(第３世代)で写真を撮ってます。<br>布陣はiPhoneSE第3世代とiPad第10世代。しょぼい😢
 
- I'm taking pictures with my iPhone SE (3rd generation).
- The lineup is the iPhone SE(3rd generation)and the iPad(10th generation). It's shabby😢
+ I'm taking pictures with my iPhone SE (3rd generation).<br>The lineup is the iPhone SE(3rd generation)and the iPad(10th generation). It's shabby😢
 
 ### SNS
 
@@ -17,5 +15,4 @@
 
  note : <a href="https://note.com/p_horeer_/" target="_blank">うまいしか</a>
 
- 今後、Webサイト作成予定です。 
- I'm planning create my web page.
+ 今後、Webサイト作成予定です。 <br> I'm planning create my web page.
